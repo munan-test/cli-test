@@ -22,4 +22,5 @@ pnpm-debug.log*
 *.sw?
 
 # workplace publish config
-munan-cli.git.config 
+munan-cli.git.config
+munan-cli.git.config.json
