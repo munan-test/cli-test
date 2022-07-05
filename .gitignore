@@ -23,4 +23,5 @@ pnpm-debug.log*
 
 # workplace publish config
 munan-cli.git.config
+munan-cli.config.json
 munan-cli.git.config.json
